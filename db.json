@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": "9fbe",
+      "name": "manu",
+      "email": "manu@gmail.com",
+      "phone": "5623124578"
+    },
+    {
+      "id": "b061",
+      "name": "vishnu",
+      "email": "vishnu@gmail.com",
+      "phone": "6598352145"
+    },
+    {
+      "id": "3222",
+      "name": "bond",
+      "email": "bond@gmail.com",
+      "phone": "7845239556"
+    },
+    {
+      "id": "83cd",
+      "name": "dhoni",
+      "email": "dhoni@gmail.com",
+      "phone": "5623124578"
+    }
+  ]
+}
